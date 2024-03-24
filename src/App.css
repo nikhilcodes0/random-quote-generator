@@ -16,3 +16,9 @@
   margin: 1rem auto;
   cursor: pointer;
 }
+
+footer {
+  position: absolute;
+  bottom: 1rem;
+  left: 47%;
+}

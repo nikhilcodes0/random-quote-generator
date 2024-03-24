@@ -30,6 +30,7 @@ function App() {
         </button>
         
       </div>
+      <footer>Made by <a href="https://nikhilcodes.tech/" target="_blank" rel="noopener noreferrer">Nikhil</a></footer>
     </>
   );
 }
